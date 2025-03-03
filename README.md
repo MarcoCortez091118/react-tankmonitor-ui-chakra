@@ -1,25 +1,3 @@
-# [React Horizon UI](https://appseed.us/product/horizon-ui/api-server-nodejs/) ⚡️
-
-Designed for those who like modern UI elements and beautiful websites. Made of hundred of elements, designed blocks and fully coded pages, **[React Horizon UI](https://appseed.us/product/horizon-ui/api-server-nodejs/)** is ready to help you create stunning websites and webapps.
-The product comes with a simple JWT authentication flow: `login`/`register`/`logout` powered by an open-source **Node JS API** Backend via `Passport` Library.
-
-- 👉 [React Horizon UI](https://appseed.us/product/horizon-ui/api-server-nodejs/) - `product page`
-- 👉 [React Horizon UI](https://react-horizon-ui-chakra.appseed-srv1.com/#/auth/sign-in/default) - `LIVE Demo`
-
-![React Horizon UI](https://github.com/app-generator/react-horizon-ui-chakra/assets/51070104/d3270e37-1b35-4409-bdb6-c699fc51fc7d)
-
-<br />
-
-> 🚀 Built with **[React App Generator](https://appseed.us/generator/react/)** 
-
-- ✅ Modern aesthetics UI design - Designed by *[Simmmple](https://simmmple.com/)*
-- ✅ Styled with `Chakra Ui`, `Dark-Mode`
-- ✅ Authentication: JWT Login/Register/Logout
-- ✅ **Full-stack Ready** using a **Node JS API Server** (open-source project) - Server Features
-  - `Typescript` / SQLite Persistence / TypeORM / Joy (validation)
-  - Passport library - `passport-jwt` strategy.
-
-<br />
 
 ## Tests
 
@@ -156,23 +134,3 @@ $ yarn dev
 The API server will start using the `PORT` specified in `.env` file (default 5000).
 
 <br /> 
-
-## PRO Version
-
-> For more components, pages and priority on support, feel free to take a look at this amazing starter:
-
-Designed for those who like modern UI elements and beautiful websites, Horizon UI is ready to help you create stunning websites and webapps.
-This premium design powered by `Chakra UI` comes with many examples for pages like NFTs Pages, Authentication Pages, Profile and so on. 
-
-- 👉 [React Horizon UI PRO](https://appseed.us/product/horizon-ui-pro/full-stack/) - Product Page
-  - ✅ `Enhanced UI` - more pages and components
-  - ✅ `Priority` on support
-
-<br >
-
-![React Horizon UI PRO - Full-Stack starter provided by AppSeed and Simmmple.](https://user-images.githubusercontent.com/51070104/175255148-7475cb47-0f63-48ee-a39d-7620beca6783.png)
-
-<br />
-
----
-[React Horizon UI](https://appseed.us/product/horizon-ui/api-server-nodejs/) - Provided by Simmmple and **AppSeed [App Generator](https://appseed.us/generator)**.
